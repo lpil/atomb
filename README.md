@@ -11,7 +11,7 @@ gleam add atomb@1
 ```gleam
 import atomb
 
-pub fn main() -> Nil {
+pub fn main() {
   let feed = atomb.Feed(
     // ... fill in the data structure
   )
